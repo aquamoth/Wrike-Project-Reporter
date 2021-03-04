@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Wrike-Project-Reporter/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/Wrike-Project-Reporter/static/js/main.a8d6d1b1.chunk.js",
+    "main.js.map": "/Wrike-Project-Reporter/static/js/main.a8d6d1b1.chunk.js.map",
+    "runtime-main.js": "/Wrike-Project-Reporter/static/js/runtime-main.50f8e8b4.js",
+    "runtime-main.js.map": "/Wrike-Project-Reporter/static/js/runtime-main.50f8e8b4.js.map",
+    "static/js/2.4c76cc65.chunk.js": "/Wrike-Project-Reporter/static/js/2.4c76cc65.chunk.js",
+    "static/js/2.4c76cc65.chunk.js.map": "/Wrike-Project-Reporter/static/js/2.4c76cc65.chunk.js.map",
+    "static/js/3.9a16730a.chunk.js": "/Wrike-Project-Reporter/static/js/3.9a16730a.chunk.js",
+    "static/js/3.9a16730a.chunk.js.map": "/Wrike-Project-Reporter/static/js/3.9a16730a.chunk.js.map",
+    "index.html": "/Wrike-Project-Reporter/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/Wrike-Project-Reporter/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.4c76cc65.chunk.js.LICENSE.txt": "/Wrike-Project-Reporter/static/js/2.4c76cc65.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Wrike-Project-Reporter/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.50f8e8b4.js",
+    "static/js/2.4c76cc65.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.a8d6d1b1.chunk.js"
+  ]
+}
